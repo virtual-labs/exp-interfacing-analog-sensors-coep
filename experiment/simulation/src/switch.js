@@ -286,7 +286,7 @@ var r1 = paper.path("M"+(x+532)+" "+(y+400)+"l  60 0").attr({'stroke-width':2,st
     var dctxt = paper.text(x+300, y-60,"PC4 - SDA").attr({'font-size': 11,"font-family": "Arial, Helvetica, sans-serif",'fill':'#3498db'});
     var dctxt = paper.text(x+300, y-40,"GND- GND").attr({'font-size': 11,"font-family": "Arial, Helvetica, sans-serif",'fill':'black'});
      var dctxt = paper.text(x+300, y-20,"5V - VCC").attr({'font-size': 11,"font-family": "Arial, Helvetica, sans-serif",'fill':'red'});
-      var dctxt = paper.text(x+80, y+50,"Temprature Sensor (LM 35)").attr({'font-size': 11,"font-family": "Arial, Helvetica, sans-serif",'fill':'black'});
+      var dctxt = paper.text(x+80, y+50,"Temperature Sensor (LM 35)").attr({'font-size': 11,"font-family": "Arial, Helvetica, sans-serif",'fill':'black'});
     
     
 //     var line = paper.path("M"+(x+550)+" "+(y+270)+" l 20 20 ").attr({'stroke-width':2,stroke: "#000"});
@@ -1036,7 +1036,7 @@ checkStatus.click(function(){
 		
 	}
 		}else{
-			showSwal('Maximum temprature','warning');
+			showSwal('Maximum temperature','warning');
 		}
 	
 //	setTimeout(rotateLine, 1900);
@@ -1078,7 +1078,7 @@ checkStatus.click(function(){
 		
 			 }
 			}else{
-				showSwal('Minimum temprature','warning');
+				showSwal('Minimum temperature','warning');
 			} 
 			 
 		
