@@ -1029,7 +1029,7 @@ checkStatus.click(function(){
 		ledoff.hide();
 		ledon.show();
 //		start(interval_plot1,onTime1,offTime1);
-//		next.show();
+		next.show();
 		lcd_text2.show();
 		lcd_text2.attr("text", "MOTOR & LED ON");
 		
