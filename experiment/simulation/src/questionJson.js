@@ -6,38 +6,38 @@ QuestionsJSON = {
 
 				"QUES": [{
 					
-					"QC": "Inductive proximity sensors are mainly used to detect:",
+					"QC": "Which temperature sensor works on the principle of change in resistance with temperature?",
 					"ANS": [{
 						"ANSID": true,
-						"content": "Metallic objects"
+						"content": "RTD (Resistance Temperature Detector)"
 					}, {
 						"ANSID": false,
-						"content": "Plastic objects"
+						"content": "Thermocouple"
 					}, {
 						"ANSID": false,
-						"content": "Wooden objects"
+						"content": "IC LM35"
 					},{
 						"ANSID": false,
-						"content": "Glass objects "
+						"content": "Infrared Sensor "
 					}]
 				}]
 			}, {
 
 				"QUES": [{
 					
-					"QC": "Capacitive proximity sensors can detect",
+					"QC": "On which effect a thermocouple works?",
 					"ANS": [{
 						"ANSID": false,
-						"content": "Only metals"
+						"content": "Hall Effect"
 					}, {
 						"ANSID": true,
-						"content": "Metals and non-metals "
+						"content": "Seebeck Effect "
 					}, {
 						"ANSID": false,
-						"content": "Only wood "
+						"content": "Photoelectric Effect "
 					}, {
 						"ANSID": false,
-						"content": "Only glass"
+						"content": " Joule Effect"
 					}]
 					
 				}]
@@ -45,19 +45,19 @@ QuestionsJSON = {
 
 				"QUES": [{
 					
-					"QC": "Typical sensing range of inductive proximity sensors is:",
+					"QC": " What is the output of a thermocouple?",
 					"ANS": [{
 						"ANSID": true,
-						"content": "0.5 to 10 mm"
+						"content": " Voltage"
 					}, {
 						"ANSID": false,
-						"content": "50 to 200 mm"
+						"content": " Resistance"
 					}, {
 						"ANSID": false,
-						"content": "1 to 5 meters"
+						"content": "Current"
 					}, {
 						"ANSID": false,
-						"content": "More than 10 meters"
+						"content": "Frequency"
 					}]
 					
 				}]
@@ -65,19 +65,19 @@ QuestionsJSON = {
 
 				"QUES": [{
 					
-					"QC": "Typical sensing range of capacitive sensors is ",
+					"QC": "Which type of temperature sensor provides digital output?",
 					"ANS": [{
 						"ANSID": false,
-						"content": "0.5 to 10 mm"
+						"content": "LM35"
 					}, {
 						"ANSID": true,
-						"content": " 2 to 50 mm"
+						"content": "DS18B20"
 					}, {
 						"ANSID": false,
-						"content": "1 to 5 meters"
+						"content": " Thermistor"
 					}, {
 						"ANSID": false,
-						"content": "5 to 10 meters"
+						"content": "RTD"
 					}]
 					
 				}]
@@ -85,19 +85,19 @@ QuestionsJSON = {
 
 				"QUES": [{
 					
-					"QC": "Which parameter affects the sensing distance of inductive sensors?",
+					"QC": "What happens to the resistance of an NTC Thermister when temperature increases?",
 					"ANS": [{
 						"ANSID": false,
-						"content": " Temperature of the air"
-					}, {
-						"ANSID": false,
-						"content": "Humidity in the environment"
+						"content": "Increases"
 					}, {
 						"ANSID": true,
-						"content": "Material of the target"
+						"content": "Decreases"
 					}, {
 						"ANSID": false,
-						"content": "Color of the target"
+						"content": "Remains constant"
+					}, {
+						"ANSID": false,
+						"content": "Becomes zero"
 					}]
 					
 				}]
@@ -105,19 +105,19 @@ QuestionsJSON = {
 
 				"QUES": [{
 					
-					"QC": "Inductive sensors are not suitable for detecting",
+					"QC": "Which of the following is a contact-type temperature sensor?",
 					"ANS": [{
 						"ANSID": false,
-						"content": "Iron"
+						"content": "Infrared sensor"
 					}, {
 						"ANSID": true,
-						"content": "Wood"
+						"content": "Thermocouple"
 					}, {
 						"ANSID": false,
-						"content": "Copper"
+						"content": "Fiber Optic sensor"
 					}, {
 						"ANSID": false,
-						"content": "Steel"
+						"content": "Laser sensor"
 					}]
 					
 				}]

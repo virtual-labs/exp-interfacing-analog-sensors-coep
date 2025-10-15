@@ -18,10 +18,10 @@
 - Connect the relay and power supply according to the circuit diagram by click on the connecting points
 - Click on "Check Connection" to validate the circuit connections
 - If connections are shows wrong then you can click on the particular connected line to delete the wrong connection (wrong connection shows in RED color)
-- After completion of circuit click on check connection object will displayed in front of sensor
-- Click on "Plus" and "Minus" buttons  for movement the object 
-- When object reached in between the sensing range of the sensor then current will flows through the circuit and motor starts running 
-- Observe the changes in circuit and rotation of motor while changing the position of object from sensor 
+- After completion of circuit click on check connection fire will displayed in front of sensor
+- Click on "Plus" and "Minus" buttons  for increase and decrease the temperature 
+- When temperature reached in between the sensing range of the sensor then current will flows through the circuit and motor starts running 
+- Observe the changes in circuit and rotation of motor while changing the temperature from sensor 
 - Click on "Next Level" button for next steps 
 
 #### Questions
