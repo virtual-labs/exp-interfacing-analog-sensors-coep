@@ -55,7 +55,7 @@ function result(){
 //	 +' <div class="row titlePart" id="" ><center><span >Inquiry, Quotation, Comparative statement, Purchase orders</span></center></div>' 
 	+' <!-- Title -->'
 
-	+'  <h3 class="text-center heading">Interfacing of Proximity Switch and Relays</h3>'
+	+'  <h3 class="text-center heading">Interfacing of Analog Sensors</h3>'
 	
 	+`<div>
 	 `
