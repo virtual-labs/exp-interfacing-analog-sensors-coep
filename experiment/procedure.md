@@ -26,4 +26,5 @@
 
 #### Questions
 - Read all the questions carefully and submit the answer
-- After submission, "Result" page will displayed
+- After submission, verify the answers 
+- Click on result button, "Result" page will displayed
