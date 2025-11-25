@@ -9,12 +9,7 @@
         "c": "Because A0 is the fastest input pin",
         "d": "Because A0 is for power supply"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+   
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -26,12 +21,7 @@
         "c": "To provide power to the relay coil",
         "d": "To measure the temperature"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -43,12 +33,7 @@
         "c": "The LCD display will stop working.",
         "d": "The Arduino board will be damaged"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -60,12 +45,7 @@
         "c": "The 12V power supply.",
         "d": "The LM35 sensor"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -77,12 +57,7 @@
         "c": "Nothing at all",
         "d": "Only 'MOTOR & LED OFF'"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "b",
       "difficulty": "beginner"
     }
