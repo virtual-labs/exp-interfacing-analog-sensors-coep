@@ -9,12 +9,7 @@
         "c": "To measure humidity",
         "d": "To provide a voltage output directly proportional to the temperature in Celsius"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+   
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -26,12 +21,7 @@
         "c": "To limit the current flowing to the LED, preventing it from burning out.",
         "d": "To increase the brightness of the LED"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -43,12 +33,7 @@
         "c": "To safely switch the motor's high voltage and current with the Arduino's low-power signal.",
         "d": "To provide power to the Arduino board"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -60,12 +45,7 @@
         "c": "A power pin (5V)",
         "d": "The GND pin"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -77,12 +57,7 @@
         "c": "To convert the sensor's analog signal to a digital one",
         "d": "To amplify the temperature reading from the sensor"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+   
       "correctAnswer": "b",
       "difficulty": "beginner"
     }
