@@ -27,4 +27,6 @@
 #### Questions
 - Read all the questions carefully and submit the answer
 - After submission, verify the answers 
-- Click on result button, "Result" page will displayed
+- Click on result button, "Result" page will displayed <br>
+
+ ![*Sensor* ](images/Experiment4.png) <br>
