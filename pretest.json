@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the primary function of the LM35 temperature sensor?",
+      "answers": {
+        "a": "To detect motion",
+        "b": "To measure and output voltage directly",
+        "c": "To measure humidity",
+        "d": "To provide a voltage output directly proportional to the temperature in Celsius"
+      },
+   
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the role of the 220Ω resistor in the LED circuit?",
+      "answers": {
+        "a": "To protect the Arduino from the LED",
+        "b": "To ensure the LED is at a known voltage",
+        "c": "To limit the current flowing to the LED, preventing it from burning out.",
+        "d": "To increase the brightness of the LED"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why is a relay used to control the 12V DC motor in this project?",
+      "answers": {
+        "a": "To change the motor's direction",
+        "b": "To convert the Arduino's digital signal to an analog signal",
+        "c": "To safely switch the motor's high voltage and current with the Arduino's low-power signal.",
+        "d": "To provide power to the Arduino board"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "Which type of pin on the Arduino Uno is the LM35 sensor's output (Vout) connected to?",
+      "answers": {
+        "a": "A digital I/O pin",
+        "b": "An analog input pin",
+        "c": "A power pin (5V)",
+        "d": "The GND pin"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "What is the role of the NPN transistor in this project?",
+      "answers": {
+        "a": "To regulate the voltage for the Arduino",
+        "b": "To act as a current amplifier or switch, controlled by the Arduino",
+        "c": "To convert the sensor's analog signal to a digital one",
+        "d": "To amplify the temperature reading from the sensor"
+      },
+   
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

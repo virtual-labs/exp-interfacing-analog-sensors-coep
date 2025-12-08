@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the main reason for connecting the LM35 sensor's Vout pin to Arduino's A0 pin?",
+      "answers": {
+        "a": "Because A0 is the only analog pin available",
+        "b": "Because the LM35 provides an analog signal, and A0 is an analog input pin",
+        "c": "Because A0 is the fastest input pin",
+        "d": "Because A0 is for power supply"
+      },
+   
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the NPN transistor used for in your project's circuit?",
+      "answers": {
+        "a": "To reduce the brightness of the LED",
+        "b": "To act as a switch between the Arduino and the LED",
+        "c": "To provide power to the relay coil",
+        "d": "To measure the temperature"
+      },
+
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What happens if you don't use a 220Ω resistor with the LED?",
+      "answers": {
+        "a": "The LED will be brighter and burn out quickly",
+        "b": "The LED will not light up at all.",
+        "c": "The LCD display will stop working.",
+        "d": "The Arduino board will be damaged"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When the digitalWrite(motorPin, HIGH) command is executed, which component ultimately powers the 12V DC motor?",
+      "answers": {
+        "a": "The Arduino Uno.",
+        "b": "The LCD display.",
+        "c": "The 12V power supply.",
+        "d": "The LM35 sensor"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "According to your code, what will the LCD display show if the temperature is 38°C?",
+      "answers": {
+        "a": "Only the temperature and 'MOTOR & LED ON'.",
+        "b": "Only the temperature",
+        "c": "Nothing at all",
+        "d": "Only 'MOTOR & LED OFF'"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
